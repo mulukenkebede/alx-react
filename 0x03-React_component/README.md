@@ -1,7 +1,5 @@
 ## 0x04. React component
 
-### :open_file_folder: Specializations - Web Stack programming ― Back-end
-
 
 <p align="center">
     <img src="https://res.cloudinary.com/carloscuesta/image/upload/v1593531857/blog-featured-images/Scalable_React_Components_architecture.png" alt="Component React">
