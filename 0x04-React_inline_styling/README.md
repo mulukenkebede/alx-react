@@ -1,6 +1,6 @@
 ## 0x05. React inline styling
 
-### :open_file_folder: Specializations - Web Stack programming ― Back-end
+### :open_file_folder: Specializations - Web Stack programming ― Front end
 
 
 <p align="center">
@@ -30,9 +30,9 @@ At the end of this project, you are expected to be able to explain to anyone, **
 * How to use responsive design and make the application show a different UI according to the screen size
 * How to create small animations within the app
 
-## :black_nib: Authors 
+## Authors 
 
-**Diahan Hudgson** 
+**muluken kebede** 
 
 ## :mag: Where can you find me?
 
