@@ -1,4 +1,4 @@
-## 0x05. React inline styling
+## 0x04. React inline styling
 
 ### :open_file_folder: Specializations - Web Stack programming ― Front end
 
