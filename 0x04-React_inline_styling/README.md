@@ -1,6 +1,6 @@
-## 0x05. React inline styling
+## 0x04. React inline styling
 
-### :open_file_folder: Specializations - Web Stack programming ― Back-end
+### :open_file_folder: Specializations - Web Stack programming ― Front end
 
 
 <p align="center">
@@ -30,17 +30,6 @@ At the end of this project, you are expected to be able to explain to anyone, **
 * How to use responsive design and make the application show a different UI according to the screen size
 * How to create small animations within the app
 
-## :black_nib: Authors 
+## Authors 
 
-**Diahan Hudgson** 
-
-## :mag: Where can you find me?
-
-<p align="center">
-<a href="https://twitter.com/diacaroll" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/ alt="twitter:diahan-hudgson"></a>
-<a href="https://www.linkedin.com/in/diahan-hudgson/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/ alt="linkedin:diahan-hudgson"></a>
-<a href="https://diahancaroll.vercel.app/" target="_blank">    
-    <img src="https://img.icons8.com/bubbles/100/000000/web.png"/ alt="website:diahan-hudgson"></a>
-</p>
+**muluken kebede** 
