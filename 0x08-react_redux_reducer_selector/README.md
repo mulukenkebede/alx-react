@@ -1,7 +1,5 @@
 # 0x09. React Redux reducer+selector
-:open_file_folder: Specializations - Web Stack programming ― React  
-:bust_in_silhouette: By Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:open_file_folder: Specialization ― front end 
 :bookmark: javascript | react | reducer | selector
 
 ## Resources
@@ -34,5 +32,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 4. Normalizr & Immutable
 * [x] 5. Selectors
 
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+
